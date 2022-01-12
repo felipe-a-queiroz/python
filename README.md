@@ -1,3 +1,7 @@
-# python
-Aprendizado de Python
-Primeira modificação
+# Python
+
+Projeto criado para acompanhar o aprendizado de Python e Git
+
+## License
+
+MIT
