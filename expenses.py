@@ -1,8 +1,11 @@
-expenses = [10.5, 8, 5, 15, 20, 5, 3]
+expenses = []
 
-sum = 0
+num_expenses = int(input('Enter # of expenses: '))
+for i in range(num_expenses):
+    expenses.append(float(input('Enter an expense: ')))
 
-for expense in expenses:
-    sum += expense
+total = 0
 
-print('You spent $', sum, sep='')
+total = sum(expenses)
+
+print('You spent $', total, sep='')
