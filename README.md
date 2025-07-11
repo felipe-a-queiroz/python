@@ -1,3 +1,3 @@
 # Python
 
-Projeto criado para acompanhar o aprendizado de Python e Git
+Project created to accompany the learning of Python and Git.
